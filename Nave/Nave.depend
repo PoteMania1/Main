@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650768634 source:c:\users\usuario1\desktop\nave\nave\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"funcion.h"
+	"Clases.h"
+
+1650768634 source:c:\users\usuario1\desktop\nave\nave\funcion.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"funcion.h"
+	"Clases.h"
+
+1650768634 c:\users\usuario1\desktop\nave\nave\funcion.h
+
+1650768634 c:\users\usuario1\desktop\nave\nave\clases.h
+
