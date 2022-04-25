@@ -4,4 +4,5 @@
 void gotoxy(int x, int y);
 //Ocultar cursor
 void OcultarCursor();
-
+//limites
+void PintarLimites();

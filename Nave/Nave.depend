@@ -1,19 +1,19 @@
 # depslib dependency file v1.0
-1650768634 source:c:\users\usuario1\desktop\nave\nave\main.cpp
+1650774019 source:c:\users\usuario1\desktop\clase\nave\main.cpp
 	<stdio.h>
 	<windows.h>
 	<conio.h>
 	"funcion.h"
 	"Clases.h"
 
-1650768634 source:c:\users\usuario1\desktop\nave\nave\funcion.cpp
+1650773412 c:\users\usuario1\desktop\clase\nave\funcion.h
+
+1650768634 c:\users\usuario1\desktop\clase\nave\clases.h
+
+1650775620 source:c:\users\usuario1\desktop\clase\nave\funcion.cpp
 	<stdio.h>
 	<windows.h>
 	<conio.h>
 	"funcion.h"
 	"Clases.h"
-
-1650768634 c:\users\usuario1\desktop\nave\nave\funcion.h
-
-1650768634 c:\users\usuario1\desktop\nave\nave\clases.h
 

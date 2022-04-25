@@ -6,7 +6,8 @@
 
 int main(){
     OcultarCursor();
-    aeronave n(50,30);
+    PintarLimites();
+    aeronave n(50,25);
     n.pintar();
     bool gameover=false;
     while(!gameover){

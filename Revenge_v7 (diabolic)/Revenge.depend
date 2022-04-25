@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1637076443 source:c:\users\usuario\desktop\frgp\laboratorio\parcial 2\revenge\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637075106 c:\users\usuario\desktop\frgp\laboratorio\parcial 2\revenge\funciones.h
+
+1637078412 source:c:\users\usuario\desktop\frgp\laboratorio\parcial 2\revenge\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637116223 source:c:\users\erikv\desktop\utn\coding\revenge\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637103322 c:\users\erikv\desktop\utn\coding\revenge\funciones.h
+
+1637115149 source:c:\users\erikv\desktop\utn\coding\revenge\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637120820 source:d:\onedrive\onedrive - frgp.utn.edu.ar\laboratorio - 1\revenge\revenge_v3\revenge\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637119343 d:\onedrive\onedrive - frgp.utn.edu.ar\laboratorio - 1\revenge\revenge_v3\revenge\funciones.h
+
+1637120173 source:d:\onedrive\onedrive - frgp.utn.edu.ar\laboratorio - 1\revenge\revenge_v3\revenge\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637120173 source:c:\users\f63420\desktop\codeblocks\proyectos\nueva carpeta\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637119343 c:\users\f63420\desktop\codeblocks\proyectos\nueva carpeta\funciones.h
+
+1637120174 source:c:\users\usuario\downloads\revenge_v4.5\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637119344 c:\users\usuario\downloads\revenge_v4.5\funciones.h
+
+1637203544 source:c:\users\erikv\desktop\utn\coding\revenge_vmuerte\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637202275 c:\users\erikv\desktop\utn\coding\revenge_vmuerte\funciones.h
+
+1637202597 source:c:\users\erikv\desktop\utn\coding\revenge_vmuerte\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637257766 source:c:\users\usuario\downloads\revenge_v6_funcional\revenge_v6 (funcional)\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637202275 c:\users\usuario\downloads\revenge_v6_funcional\revenge_v6 (funcional)\funciones.h
+
+1637264774 source:c:\users\usuario\downloads\revenge_v6_funcional\revenge_v6 (funcional)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637265089 source:c:\users\usuario1\desktop\revenge_v7 (diabolic)\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1637202275 c:\users\usuario1\desktop\revenge_v7 (diabolic)\funciones.h
+
+1637265571 source:c:\users\usuario1\desktop\revenge_v7 (diabolic)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+

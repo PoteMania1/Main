@@ -29,6 +29,25 @@ void OcultarCursor(){
     SetConsoleCursorInfo(hCon, &cci);
 }
 
+void PintarLimites(){
+    for(int i=2;i<118;i++){
+        gotoxy(i,3);
+        printf ("%c",205);
+        gotoxy(i,28);
+        printf ("%c",205);
+    }
+    for(int i=4;i<28;i++){
+        gotoxy(1,i);
+        printf ("%c",186);
+        gotoxy(118,i);
+        printf ("%c",186);
+    }
+    gotoxy(1,3);printf ("%c",201);
+    gotoxy(1,28);printf ("%c",200);
+    gotoxy(118,3);printf ("%c",187);
+    gotoxy(118,28);printf ("%c",188);
+}
+
 
 //Metodos de clases
 
@@ -53,9 +72,9 @@ void aeronave::borrar(){
 void aeronave::mover(){
         char tecla=getch();
         borrar();
-        if (tecla==IZQUIERDA) x--;
-        if (tecla==DERECHA) x++;
-        if (tecla==ARRIBA) y--;
-        if (tecla==ABAJO) y++;
+        if (tecla==IZQUIERDA&&x>2) x--;
+        if (tecla==DERECHA&&x<113) x++;
+        if (tecla==ARRIBA&&y-1>3) y--;
+        if (tecla==ABAJO&&y<25) y++;
         pintar();
 }
